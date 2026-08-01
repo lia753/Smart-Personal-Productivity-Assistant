@@ -84,6 +84,30 @@ java ChatBot
 
 ---
 
+# 📸 Application Screenshots
+
+## 💬 Chat Assistant
+
+![Chat](screenshots/chat.png)
+
+---
+
+## 📋 Task Manager
+
+![Tasks](screenshots/tasks.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 📝 Notes
+
+![Notes](screenshots/notes.png)
+
 ## 👩‍💻 Author
 
 **Likitha Yaram**
