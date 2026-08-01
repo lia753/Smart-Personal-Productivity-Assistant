@@ -8,4 +8,4 @@
 [x] DRESS
 [x] CLEAN
 [x] SLEEP
-[x] EAT
+[ ] EAT
