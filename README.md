@@ -19,6 +19,19 @@ A modern desktop productivity application built using **Java Swing** that helps 
 
 ---
 
+## 🚀 Key Highlights
+
+- Modern Java Swing desktop interface
+- Rule-based AI chatbot for productivity assistance
+- Task management with persistent file storage
+- Weekly analytics and productivity tracking
+- Achievement badge and streak system
+- Notes manager for organizing information
+- Exportable productivity reports
+- Clean and responsive multi-panel user interface
+
+---
+
 ## 🛠️ Tech Stack
 
 - Java
@@ -31,7 +44,7 @@ A modern desktop productivity application built using **Java Swing** that helps 
 
 ## 📂 Project Structure
 
-```
+```text
 Smart-Personal-Productivity-Assistant/
 │
 ├── ChatBot.java
@@ -43,6 +56,9 @@ Smart-Personal-Productivity-Assistant/
 ├── SidebarPanel.java
 ├── WeeklyChartPanel.java
 ├── ReportManager.java
+├── BadgeManager.java
+├── AnalyticsManager.java
+├── StreakManager.java
 └── ...
 ```
 
@@ -50,21 +66,23 @@ Smart-Personal-Productivity-Assistant/
 
 ## ▶️ How to Run
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/lia753/Smart-Personal-Productivity-Assistant.git
 ```
 
-2. Open the project in VS Code or IntelliJ IDEA.
+### 2. Open the project
 
-3. Compile the project:
+Open the project in **VS Code** or **IntelliJ IDEA**.
+
+### 3. Compile
 
 ```bash
 javac *.java
 ```
 
-4. Run the application:
+### 4. Run
 
 ```bash
 java ChatBot
@@ -79,8 +97,17 @@ java ChatBot
 - Calendar View
 - Task Due Dates
 - Notifications & Reminders
-- AI API Integration (OpenAI/Gemini)
+- AI Integration using OpenAI/Gemini APIs
 - PDF Report Export
+- Dark/Light Theme Toggle
+
+---
+
+## 👩‍💻 Author
+
+**Likitha Yaram**
+
+GitHub: https://github.com/lia753
 
 ---
 
@@ -108,12 +135,6 @@ java ChatBot
 
 ![Notes](screenshots/notes.png)
 
-## 👩‍💻 Author
-
-**Likitha Yaram**
-
-GitHub: https://github.com/lia753
-
 ---
 
-⭐ If you found this project interesting, consider giving it a star!
+⭐ **If you found this project interesting, consider giving it a Star!**
