@@ -1,0 +1,16 @@
+# Java compiled files
+*.class
+
+# IDE folders
+.vscode/
+.idea/
+
+# Generated reports
+Productivity_Report.txt
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log

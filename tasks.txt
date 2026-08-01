@@ -1,0 +1,11 @@
+[x] WATER
+[x] BATH
+[x] PRAY
+[x] STUDY
+[x] 5AM
+[x] MAIL
+[x] BED
+[x] DRESS
+[x] CLEAN
+[x] SLEEP
+[x] EAT
